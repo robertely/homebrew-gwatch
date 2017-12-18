@@ -8,6 +8,8 @@ class Gwatch < Formula
 
   def install
     bin.install "gwatch"
+    man.mkpath
+    man1.install "gwatch.1.gz"
   end
 
   test do
