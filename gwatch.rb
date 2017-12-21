@@ -1,8 +1,8 @@
 class Gwatch < Formula
   desc "graphing watch: expects numerical values, graphs the first one it sees."
   homepage "https://github.com/robertely/gwatch"
-  url "https://github.com/robertely/gwatch/releases/download/0.0.3/gwatch-0.0.3.tar.gz"
-  sha256 "14e3cf5a22393f4b0926eddc7f4cd2948aad0b7a50732dbfe5fbf1d27fb06209"
+  url "https://github.com/robertely/gwatch/releases/download/0.0.4/gwatch-0.0.4.tar.gz"
+  sha256 "e2869b1c0dc0c8ee17e7196fe1e5453c22dbc5da04d0cf47089baaf5d6eb6454"
 
   bottle :unneeded
 
